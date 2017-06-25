@@ -3,7 +3,7 @@
  
 #### A friend of mine went to bed one evening, and woke up deaf.####
  
- <p>This malady is called [Sudden Deafness Syndrome](https://www.nidcd.nih.gov/health/sudden-deafness). There’s no warning,  no indication ta profound change is coming with the dawn. No pain, illness, irritation, nothing. At 34, Susan couldn’t convey the smallest personal detail of her thoughts, her fear -- in  the space of less than eight hours she  had been cut off from all of us. And we were not the kind of folks to take that lying down. </p>
+ <p>This malady is called [ Sudden Deafness Syndrome ](https://www.nidcd.nih.gov/health/sudden-deafness). There’s no warning,  no indication ta profound change is coming with the dawn. No pain, illness, irritation, nothing. At 34, Susan couldn’t convey the smallest personal detail of her thoughts, her fear -- in  the space of less than eight hours she  had been cut off from all of us. And we were not the kind of folks to take that lying down. </p>
 <p>She didn’t know sign language, and it wouldn’t have mattered much because if she could she would be the only one. She was 34 at the time and learning to program in JAVA. She didn't know about TTY/TRS, (the phone service for the deaf,) so she couldn't call and explain what was happening to her. She woke in terror, alone. It would be three months before skill sets were strong enough  to convey basic needs and resources without frustration and high emotions.  </p>
 <p>Another three before she could convey the terror.</p>
  
